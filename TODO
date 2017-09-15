@@ -1,0 +1,9 @@
+# TODO
+* sources
+    * geeknote
+    * pocket?
+    * yt transcripts
+* allow sources selection (e.g. limit just to browser hist)
+* usage message
+* improve chrome history search 
+    * currently only urls try to search titles as well
